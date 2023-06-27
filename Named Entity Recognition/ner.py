@@ -20,7 +20,7 @@ gpe = Geopolitical Entity
 tim = Time indicator
 art = Artifact
 eve = Event
-nat = Natural Phenomenon
+nat = Naturaln
 
 """
 # Loading training data 
